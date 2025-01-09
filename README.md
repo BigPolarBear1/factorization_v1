@@ -1,14 +1,6 @@
 # factorization
 
-Continueing the grind while learning linear algebra and lattice basis reduction. I am still hopimg to find a purely number theoretical trick to solve this problem. Nearly broke now after more then a year of unemployment. If you want access to my work, pay me.. I will succeed no matter the cost. When I started this project I didnt even know basic algebra bc I dropped out of highschool. In one more year, I can break this, I know it. Pay me for a year of work and at the end of the year I will show you factorization. I will succeed either way, the hard way or the easy way, it doesnt matter. My email is below. I may not have a pristine memory like all the assholes in the industry and be able to memorize books and formal notation. But I can abstractly and creatively reason about problems better then anyone, and keep doing so for longer then anyone else. I will succeed, I have plenty of ideas left to explore. And lastly if you pay me for a year, and even in the off chance I still dont succeed, you would still receive a year's worth of research. I do not care about money or fame, I just want to grind this problem and solve it. That is all.. i dont care anymore, they ruined my life and that of my former manager.. succeeding at this is the only thing that matters anymore.
-
-Dont have social media accounts anywhere. Removed all of them. Moving the Iceland in a few days (booked my flight). If you're queer and also escaping all the bullshit and end up in iceland, feel free to email me.
-The arctic doesn't judge. It freezes everyone equally. Haters cant come for us in the arctic, bc they are cowards by nature and afraid of the cold.  And if they do, I'll fight them all. Haha.
-
-If you join me in Iceland, we will do awesome cryptologic research, this project was just the beginning, I know the way forward now, haters just too blind and dumb too see it. We will break the world and make it right again.
-
-Warning: This math is too advanced for Trump supporters. 
-
+update: New iteration swapping LLL for gaussian elimination coming soon....
 
 Final notes and thoughts: by solving for squared quadratic coefficients we achieve an extremely low density. I have not yet enough experience with LLL to attack this using a proper bkz algo. I will continue my work, if you want access, pay me.
 
