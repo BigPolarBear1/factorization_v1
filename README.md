@@ -2,6 +2,8 @@
 
 update: New iteration swapping LLL for gaussian elimination coming soon....
 
+This is a reupload of a deleted github repo.
+
 Final notes and thoughts: by solving for squared quadratic coefficients we achieve an extremely low density. I have not yet enough experience with LLL to attack this using a proper bkz algo. I will continue my work, if you want access, pay me.
 
 If you want to sponsor future research and have exclusive rights big_polar_bear1@proton.me
