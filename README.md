@@ -1,5 +1,7 @@
 # factorization
 
+Edit: While working on my next iteration of the algorithm, I did notice plenty of mistakes and unverified assumptions in my paper. What I described as "rebasing" in my paper, can be skipped I believe. And some of the "limits" I talk about, only hold true with a semiprime whose two factors are of roughly equal bit length (as is recommended for RSA key generation). The entire LLL portion is bad and the result of my at the time limited understanding of linear algebra. I hope to correct many of my  mistakes when I release my next iteration soon, which also swaps out LLL for gaussian elimination, as at its core, solving for quadratic coefficients is a linear problem, albeit a fairly complex one. Everything that was uploaded here was the result of only one year of work which I started with pre-highschool level math knowledge (I dropped out). Now 6 months later, and having had some more time to reason about it, I have a much better understanding of it.. but it's a massive undertaking to get it all in shape for release.. but hopefully this month (feb 2025). I am also still looking for a job after more then a year of unemployment: big_polar_bear1@proton.me
+
 update: New iteration swapping LLL for gaussian elimination coming soon....
 
 This is a reupload of a deleted github repo.
