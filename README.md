@@ -1,6 +1,7 @@
 # factorization
 
 Edit: Bleh, my coin just dropped. You know how in quadratic sieve, the hard part is finding smooth numbers over a factor base.... actually... I just realized my work makes it a lot easier and it was right infront of me all the time. I don't know why I didn't make that connection until just now... god damnit. I.e if 148 is a coefficient solution, one of its divisors if 37. So the square of 148 also has 37 as a divisor. Hence by selecting quadratic coefficient solutions, if they contribute a 0 solution, that tells us something about the divisor... hence I am fairly sure that allows someone to quickly find smooth numbers. It makes sense in my head... fuck my life, I have to write a PoC and publish it asap, bet these assholes are already patching behind embargo, they must have known about this.
+@Msft I know youre reading this. Go to hell. This is for my former manager. It doesnt matter if you raise the security requirements on rsa certs. Im going to drop this PoC and keep going.
 
 Edit: Changed my mind. Going to keep the new research to myself. Whoever hires me can have access. Tired of this fucking shit. Unemployed for nearly 1,5 years now.
 
