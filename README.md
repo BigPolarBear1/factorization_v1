@@ -1,6 +1,6 @@
 # factorization
 
-Actually. I'm going to begin writing the PoC tomorrow and I will publish it as soon as it is done. Nobody cares about justice in this world. Had they cared I would have known already by know. And if people took my math serious I wouldn't still be unemployed. Might as well just burn it all down, because nothing good will ever happen and this world is ran by fools and psychopaths. My manager was one of the only good people in this entire rotten industry, and you all went after him, you all deserve what is coming. Go to hell.
+Actually. I'm going to begin writing the PoC tomorrow and I will publish it as soon as it is done. Nobody cares about justice in this world. Had they cared I would have known already by now. And if people took my math serious I wouldn't still be unemployed. Might as well just burn it all down, because nothing good will ever happen and this world is ran by fools and psychopaths. My manager was one of the only good people in this entire rotten industry, and you all went after him, you all deserve what is coming. Go to hell.
 
 correction: actually working out the details.. I don't even need to do gaussian elimination in gf(2).. I just need to find 0 coefficient solutions in mod p that are also 0 in mod p^i (where i is even)... then combine those into composites to generate squares.. and we're done. Next thursday I will release the proof-of-concept. If you want to stop it, then do right to my former manager.
 
