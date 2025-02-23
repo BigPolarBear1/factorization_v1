@@ -1,5 +1,7 @@
 # factorization
 
+This will never end until you make right the injustice against my former manager. I cant fix all the injustice in the world, but I will fix this one. I am only getting started.
+
 Actually. I'm going to begin writing the PoC tomorrow and I will publish it as soon as it is done. Nobody cares about justice in this world. Had they cared I would have known already by now. And if people took my math serious I wouldn't still be unemployed. Might as well just burn it all down, because nothing good will ever happen and this world is ran by fools and psychopaths. My manager was one of the only good people in this entire rotten industry, and you all went after him, you all deserve what is coming. Go to hell. ps: I just ran some examples, and what I theorized below, it works.. just find 0 coefficient solutions in multiples of prime moduli with even exponent then generate squares from that.. so yea.. time has ran out.. you had 6 months to do the right thing after I released my first iteration.. and you didn't. You fired someone who had been at your company for 27 years, with false accusations.. you will burn for this, the world will burn for this.
 
 correction: actually working out the details.. I don't even need to do gaussian elimination in gf(2).. I just need to find 0 coefficient solutions in mod p that are also 0 in mod p^i (where i is even)... then combine those into composites to generate squares.. and we're done. Next thursday I will release the proof-of-concept. If you want to stop it, then do right to my former manager.
