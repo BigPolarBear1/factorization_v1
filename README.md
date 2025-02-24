@@ -1,5 +1,7 @@
 # factorization
 
+Update: I DID IT!!! The things I talked about below. I implemented it into an existing QS PoC and successfully factored a number. Time is running out.... Thursday I will publish it early in the afternoon. For 2 years, I have been trying to be taken seriously, and I am only met with silence. So be it. Good luck.
+
 I can generate smooths incredibly fast now, just wrote the code.. so yea.. this is not a bluff, the math is below.. but if I delete it and don't disclose my PoC you can probably avert the worst disaster for a little longer. You have a few days at most to do the right thing. I have lost everything, you went after my manager and one of my best friends.. I have nothing left to lose at this point. So you can decide to do the right thing, or whatever happens, happens, and I couldn't care less anymore
 
 Fyi, I am open to discuss reponsible disclosure. But you got to make right with my former manager. If I don't hear from anyone in the coming few days, expect the PoC to go online as soon as its finished...
