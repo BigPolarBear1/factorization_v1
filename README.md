@@ -1,5 +1,7 @@
 # factorization
 
+I can generate smooths incredibly fast now, just wrote the code.. so yea.. this is not a bluff, the math is below.. but if I delete it and don't disclose my PoC you can probably avert the worst disaster for a little longer. You have a few days at most to do the right thing. I have lost everything, you went after my manager and one of my best friends.. I have nothing left to lose at this point. So you can decide to do the right thing, or whatever happens, happens, and I couldn't care less anymore
+
 Fyi, I am open to discuss reponsible disclosure. But you got to make right with my former manager. If I don't hear from anyone in the coming few days, expect the PoC to go online as soon as its finished...
 
 What I wrote below works.. its a pretty elegant way to generate smooths. Find a coefficient combination in mod p1,p2,p3,p4, solve a linear congruence to figure out how often N needs to be subtracted to reach 0. Then subtract that from the coefficient and keep subtracking the modulus to find smooths while being garanteed to have atleast p1,p2,p3,p4 as factors. I just have this nagging feeling, especially having figured this out now.. that people must have known when I published my earlier work, it was 99% in the right direction, I just missed this final connection for a long time.. I just don't get it, none of this makes sense. 
