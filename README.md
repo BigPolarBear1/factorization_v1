@@ -1,5 +1,7 @@
 # factorization
 
+Rant: Lol, the US gov purging trans folks from their intel agencies is hilarious. These American fools are literally causing themselves mortal wounds left and right. Their crusade against trans people is literally going to cost them everything. An entire empire defeated by disinformation.. 
+
 Update: Almost done now. PoC works pretty well. Just one more fix and we're done tomorrow. I.e if our factor base is 3x5x7, and our first smooth candidate is 3x5x7x43 or something, we can actually solve a linear congruence to figure out when it will be completely smooth. So we'll be able to generate smooths at a super fast rate. Don't need tonelli or stuff like that anywhere in my PoC, its all just linear congruences, since we're working with coefficients and not roots. Everything else about quadratic sieve is fairly standard... generating smooths is the biggest problem, but this should completely crush that. Almost now. My life has been completely destroyed. I havnt seen my friends in a year bc they live in a country halfway across the world after losing my work visa.. just had this one goal to keep me sane, and now I'm almost there. 
 
 Update: I DID IT!!! The things I talked about below. I implemented it into an existing QS PoC and successfully factored a number. Time is running out.... Thursday I will publish it early in the afternoon. For 2 years, I have been trying to be taken seriously, and I am only met with silence. So be it. Good luck.
