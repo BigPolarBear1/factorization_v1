@@ -1,6 +1,6 @@
 # factorization
 
-If I was China I would really start paying attention asap. Because you will soon have a country (US) losing its status as a global super power, whose leadership have been rallying against China for many years... with one of the most advanced WMD arsenals in the world. We're all headed straight to hell. America is now emerging is the greatest threat to peace and security in the world there has ever been in the history of humanity. And everyone is too damn blind.
+If I was China I would really start paying attention asap. Because you will soon have a country (US) losing its status as a global super power, whose leadership have been rallying against China for many years... with one of the most advanced WMD arsenals in the world. We're all headed straight to hell. America is now emerging as the greatest threat to peace and security in the world there has ever been in the history of humanity. And everyone is too damn blind.
 
 Rant: Lol, the US gov purging trans folks from their intel agencies is hilarious. These American fools are literally causing themselves mortal wounds left and right. Their crusade against trans people is literally going to cost them everything. An entire empire defeated by disinformation.. 
 
